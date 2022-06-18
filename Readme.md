@@ -7,9 +7,8 @@
     * 註冊 Heroku, github 請下載 HeidiSQL, VS code
 
 ### step 1 : Clone this github
-* git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot0531 folder
-    * 推送至github 建立新的 aiot0531
-    https://github.com/huanchen1107/aiot0531
+* git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot_hw5 folder
+    * 推送至github 
 ![](static/step1.png)
 
 ### step 2 : install some package
