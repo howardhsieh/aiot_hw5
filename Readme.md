@@ -64,15 +64,15 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ### step 9: Heroku deploy from github
 
+![](static/step9.png)
+
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+* https://howard-aiot-hw5.herokuapp.com/
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+* random
 
-
-![success](./static/success.jpg)
+![](static/step10.png)
+![](static/step11.png)
 
 
