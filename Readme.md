@@ -73,6 +73,9 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 * random
 
 ![](static/step10.png)
+
+* AI
+
 ![](static/step11.png)
 
 
