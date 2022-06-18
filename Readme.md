@@ -34,16 +34,9 @@
 
 ![](static/step4-1.png)
 ![](static/step4-2.png)
+![](static/step4-3.png)
 
 
-
-```sql
-myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
-myuser="<fill-in-Heroku-Postgredb-DB-user>"
-mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
-mydb="<fill-in-Heroku-Postgredb-DB-db>"
-
-```
 ### step 5: import postgredb (in db/postgre.db)
 
 
