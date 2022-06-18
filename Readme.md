@@ -9,11 +9,13 @@
 ### step 1 : Clone this github
 * git clone https://github.com/huanchen1107/aiot0530-start-no-token 到 local\aiot_hw5 folder
     * 推送至github 
+
 ![](static/step1.png)
 
 ### step 2 : install some package
 
 * pip install -r requirements.txt
+
 ![](static/step2.png)
 
 
