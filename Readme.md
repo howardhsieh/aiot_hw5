@@ -30,6 +30,12 @@
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
+* 到 Postgresql / Settings / Database Credentials 取得資料庫資訊
+
+![](static/step4-1.png)
+![](static/step4-2.png)
+
+
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
