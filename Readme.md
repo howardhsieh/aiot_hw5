@@ -26,6 +26,8 @@
 * new an app
 * go to resource and add-on an Heroku postgredb
 
+![](static/step3.png)
+
 ### step 4: login to heroku pstgredb using HeidiSQL
 
 
