@@ -33,15 +33,15 @@
 * 到 Postgresql / Settings / Database Credentials 取得資料庫資訊
 
 ![](static/step4-1.png)
-![](static/step4-2.png)
-![](static/step4-3.png)
+
+
 
 
 ### step 5: import postgredb (in db/postgre.db)
 
+![](static/step4-2.png)
 
 ### step 6: setting db in app.py
-
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
@@ -50,11 +50,16 @@ mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
+
+![](static/step4-3.png)
+
 ### step 7: testing locally by running python app.py
+
+![](static/step5.png)
 
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 
-delete .git and git remote add origin master github.com/xxxxx
+* git push origin master
 
 
 ### step 9: Heroku deploy from github
