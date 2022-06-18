@@ -1,7 +1,7 @@
 # AIoT Github
 
 ## Lecture 16: IoT Flask Web (deploy to heroku)
-#### Author: Huan Chen 
+#### Author: Howard Hsieh
 
 ### step 0:
     * 註冊 Heroku, github 請下載 HeidiSQL, VS code
